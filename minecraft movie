@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <title>MOVIE INFO </title>
+    <link rel="stylesheet" href="./style.css">
+    <div class="nav">
+       <a href="up.html">
+            <button>Up<button></button>
+        </a>
+        <a href="minecraft movie">
+            <button>Minecraft</button>
+        </a>
+        <a href="finding nemo">
+            <button>Finding Nemo</button>
+        </a>
+    </div>
+    <div class="card">
+        <img src="https://static1.srcdn.com/wordpress/wp-content/uploads/2024/09/a-minecraft-movie-official-poster.jpg"
+            alt="" width="300px">
+        <div class="info">
+            <h2>Minecraft</h2>
+            <p><strong>YEAR:</strong>2025</p>
+            <p><strong>GENRE:</strong> fantasy adventure film</p>
+            <p><strong>DIRECTORE:</strong>Jared Hess</p>
+            <p><strong>INFORMATION:</strong>Struggling doorknob salesman Steve breaks into a mine to fulfill a childhood dream, where he discovers the Orb of Dominance and the Earth Crystal. When combined, they create a portal that transports him to the Overworld, a world where the terrain is made of easily manipulated cubes. He builds his own paradise and later stumbles across a portal to a hellish world called the Nether. He is imprisoned by Malgosha, the gold-obsessed piglin ruler of the Nether who gravely discourages creativity. Because the Orb would allow her to control the Overworld, Steve has his dog Dennis escape with the Orb and Crystal and hide them under his bed in the real world.</p>
+        </div>
+
+    </div>
+
+</body>
+
+</html>

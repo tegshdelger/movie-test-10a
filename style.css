@@ -1,0 +1,35 @@
+body {
+    background-color:rgb(red, green, blue);
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+h1 {
+    color: white;
+}
+button {
+    border: none;
+    border-radius: 20px;
+    padding: 10px 25px;
+    cursor: pointer;
+    margin: 20px;
+}
+.card img {
+    width: 250px;
+    border-radius: 12px;
+}
+.card {
+    display: flex;
+    gap: 20px;
+    background-color: cadetblue;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(red, green, blue, alpha);
+    max-width: 800px;
+    width: 60%;
+}
+.nav button:hover {
+    background-color: aquamarine;
+    transform: translateY(-2px);
+}

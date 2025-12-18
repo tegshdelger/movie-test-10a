@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <title>MOVIE INFO </title>
+    <link rel="stylesheet" href="./style.css">
+    <div class="nav">
+        <a href="up.html">
+            <button>Up<button></button>
+        </a>
+        <a href="minecraft movie">
+            <button>Minecraft</button>
+        </a>
+        <a href="finding nemo">
+            <button>Finding Nemo</button>
+        </a>
+    </div>
+    <div class="card">
+        <img src="https://i.pinimg.com/originals/28/be/bf/28bebfc38c95c103078f784356268ede.jpg"
+            alt="" width="300px">
+        <div class="info">
+            <h2>Finding Nemo</h2>
+            <p><strong>YEAR:</strong>2003</p>
+            <p><strong>GENRE:</strong>comedy-drama</p>
+            <p><strong>DIRECTORE:</strong>Andrew Stanton</p>
+            <p><strong>INFORMATION:</strong> It tells the story of an overprotective clownfish named Marlin (Brooks) who, along with a forgetful regal blue tang named Dory (DeGeneres), searches for his missing son Nemo (Gould). Along the way, Marlin learns to take risks and comes to terms with Nemo taking care of himself.</p>
+        </div>
+
+    </div>
+
+</body>
+
+</html>
